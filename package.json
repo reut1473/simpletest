@@ -3,6 +3,7 @@
 	"displayName": "hello world",
 	"description": "",
 	"version": "0.0.1",
+	"publisher": "reut",
 	"engines": {
 		"vscode": "^1.37.0"
 	},
